@@ -1,0 +1,27 @@
+{
+  "name": "agency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "dependencies": {
+    "electron": "^2.0.2",
+    "eslint": "^4.19.1",
+    "tslint": "^5.10.0",
+    "typescript": "^2.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dabatten/the-agency.git"
+  },
+  "author": "Davis Batten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dabatten/the-agency/issues"
+  },
+  "homepage": "https://github.com/dabatten/the-agency#readme"
+}
